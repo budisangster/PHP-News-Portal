@@ -59,4 +59,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions, feel free to reach out to [Your Name] at [your.email@example.com].
+If you have any questions, feel free to reach out to me at bit.ly/faizmuh
