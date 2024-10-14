@@ -46,8 +46,13 @@ PHP News Portal is a comprehensive web application designed to serve as a flexib
 
 ## Usage
 
-- Access the frontend by navigating to the project URL in your web browser.
-- Admin panel can be accessed at `/admin` (use credentials set during installation).
+- Access the frontend by navigating to http://news-portal-website.great-site.net/ in your web browser.
+- Admin panel can be accessed at http://news-portal-website.great-site.net/admin
+- To test the admin functionality, use the following credentials:
+  - Username: admin
+  - Password: admin123
+
+Please note that these are test credentials and should be changed in a production environment.
 
 ## Contributing
 
