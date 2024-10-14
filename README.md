@@ -33,7 +33,7 @@ PHP News Portal is a comprehensive web application designed to serve as a flexib
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/php-news-portal.git
+   git clone https://github.com/budisangster/php-news-portal.git
    ```
 2. Create a MySQL database and import the provided SQL schema.
 3. Copy `config/database.example.php` to `config/database.php` and update with your database credentials.
